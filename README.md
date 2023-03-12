@@ -6,3 +6,5 @@ This application allows users to input their height in meters and weight in kilo
 I had a great time working on this project, and I'm excited to share my code with others who are learning JavaFX. This is a great beginner project that introduces important concepts such as UI design, event handling, and data input validation.
 
 Feel free to explore the code and try out the application for yourself! I welcome any feedback or suggestions for improvement. #JavaFX #BMICalculator #LearningToCode #ProgrammingJourney
+
+## GUI
