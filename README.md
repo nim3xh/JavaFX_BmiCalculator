@@ -8,3 +8,4 @@ I had a great time working on this project, and I'm excited to share my code wit
 Feel free to explore the code and try out the application for yourself! I welcome any feedback or suggestions for improvement. #JavaFX #BMICalculator #LearningToCode #ProgrammingJourney
 
 ## GUI
+<img src="https://user-images.githubusercontent.com/105283769/224554467-8cb708aa-d5cb-48dc-b3b3-299d5b85ccf8.png">
